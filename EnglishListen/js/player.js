@@ -43,7 +43,7 @@ class Musics {
                 id: 3,
                 title: '话题三：工作与职业 提升训练',
                 singer: '匿名',
-                songUrl: '/songs/006 话题三：工作与职业 提升训练.mp3',
+                songUrl: './songs/006 话题三：工作与职业 提升训练.mp3',
                 imageUrl: ' images/songs/英语听力.jpg'
             },
             {
