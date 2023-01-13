@@ -175,11 +175,4 @@ sFanyi.onclick = function (){
     s='https://fanyi.baidu.com/';
     doAction(p,n,s);
 }
-console.log("                                  ");
-console.log("   - 欢迎来到Morey的个人导航 -     ");
-console.log("===============================");
-console.log("                          ");
-console.log("       老哥，你好啊~      ");
-console.log("                          ");
-console.log("===============================")
 
