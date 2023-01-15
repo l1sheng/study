@@ -27,37 +27,338 @@ class Musics {
         this.songs = [
             {
                 id: 1,
+                title: '话题一：计划与愿望 基础训练',
+                singer: '匿名',
+                songUrl: './songs/001 话题一：计划与愿望 基础训练.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 2,
                 title: '话题一：计划与愿望 提升训练',
                 singer: '匿名',
                 songUrl: './songs/002 话题一：计划与愿望 提升训练.mp3',
                 imageUrl: 'images/songs/英语听力.jpg'
             },
             {
-                id: 2,
+                id: 3,
+                title: '',
+                singer: '匿名',
+                songUrl: './songs/003 话题二：饮食与健康 基础训练.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 4,
                 title: '话题二：饮食与健康 提升训练',
                 singer: '匿名',
                 songUrl: './songs/004 话题二：饮食与健康 提升训练.mp3',
                 imageUrl: ' images/songs/英语听力.jpg'
             },
+            {
+                id: 5,
+                title: '',
+                singer: '匿名',
+                songUrl: './songs/005 话题三：工作与职业 基础训练.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
 			{
-                id: 3,
+                id:6,
                 title: '话题三：工作与职业 提升训练',
                 singer: '匿名',
                 songUrl: './songs/006 话题三：工作与职业 提升训练.mp3',
                 imageUrl: ' images/songs/英语听力.jpg'
             },
             {
-                id: 4,
+                id: 7,
+                title: '话题四：日常活动与学校生活 基础训练',
+                singer: '匿名',
+                songUrl: './songs/007 话题四：日常活动与学校生活 基础训练.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 8,
                 title: '话题四：日常活动与学校生活 提升训练',
                 singer: '匿名',
                 songUrl: './songs/008 话题四：日常活动与学校生活 提升训练.mp3',
                 imageUrl: ' images/songs/英语听力.jpg'
             },
+            {
+                id: 9,
+                title: '话题五：兴趣与爱好 基础训练',
+                singer: '匿名',
+                songUrl: './songs/009 话题五：兴趣与爱好 基础训练.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
 			{
-                id: 5,
+                id: 10,
                 title: '话题五：兴趣与爱好 提升训练',
                 singer: '匿名',
                 songUrl: './songs/010 话题五：兴趣与爱好 提升训练.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 11,
+                title: '话题六：人际关系 基础训练',
+                singer: '匿名',
+                songUrl: './songs/011 话题六：人际关系 基础训练.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 12,
+                title: '话题六：人际关系 提升训练',
+                singer: '匿名',
+                songUrl: './songs/012 话题六：人际关系 提升训练.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 13,
+                title: '话题七：购物 基础训练',
+                singer: '匿名',
+                songUrl: './songs/013 话题七：购物 基础训练.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 14,
+                title: '话题七：购物 提升训练',
+                singer: '匿名',
+                songUrl: './songs/014 话题七：购物 提升训练.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 15,
+                title: '话题八：旅游与交通 基础训练',
+                singer: '匿名',
+                songUrl: './songs/015 话题八：旅游与交通 基础训练.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id:16 ,
+                title: '话题八：旅游与交通 提升训练',
+                singer: '匿名',
+                songUrl: './songs/016 话题八：旅游与交通 提升训练.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id:17 ,
+                title: '话题九：文娱与体育 基础训练',
+                singer: '匿名',
+                songUrl: './songs/017 话题九：文娱与体育 基础训练.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 18,
+                title: '话题九：文娱与体育 提升训练',
+                singer: '匿名',
+                songUrl: './songs/018 话题九：文娱与体育 提升训练.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 19,
+                title: '话题十：自然与环境 基础训练',
+                singer: '匿名',
+                songUrl: './songs/019 话题十：自然与环境 基础训练.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 20,
+                title: '话题十：自然与环境 提升训练',
+                singer: '匿名',
+                songUrl: './songs/020 话题十：自然与环境 提升训练.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 21,
+                title: '综合训练1',
+                singer: '匿名',
+                songUrl: './songs/021 综合训练1.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 22,
+                title: '综合训练2',
+                singer: '匿名',
+                songUrl: './songs/022 综合训练2.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 23,
+                title: '综合训练3',
+                singer: '匿名',
+                songUrl: './songs/023 综合训练3.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 24,
+                title: '综合训练4',
+                singer: '匿名',
+                songUrl: './songs/024 综合训练4.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 25,
+                title: '综合训练5',
+                singer: '匿名',
+                songUrl: './songs/025 综合训练5.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id:26 ,
+                title: '综合训练6',
+                singer: '匿名',
+                songUrl: './songs/026 综合训练6.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id:27 ,
+                title: '综合训练7',
+                singer: '匿名',
+                songUrl: './songs/027 综合训练7.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 28,
+                title: '综合训练8',
+                singer: '匿名',
+                songUrl: './songs/028 综合训练8.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 29,
+                title: '综合训练9',
+                singer: '匿名',
+                songUrl: './songs/029 综合训练9.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 30,
+                title: '综合训练10',
+                singer: '匿名',
+                songUrl: './songs/030 综合训练10.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 31,
+                title: '综合训练11',
+                singer: '匿名',
+                songUrl: './songs/031 综合训练11.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 32,
+                title: '综合训练12',
+                singer: '匿名',
+                songUrl: './songs/032 综合训练12.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 33,
+                title: '综合训练13',
+                singer: '匿名',
+                songUrl: './songs/033 综合训练13.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 34,
+                title: '综合训练14',
+                singer: '匿名',
+                songUrl: './songs/034 综合训练14.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 35,
+                title: '综合训练15',
+                singer: '匿名',
+                songUrl: './songs/035 综合训练15.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 36,
+                title: '综合训练16',
+                singer: '匿名',
+                songUrl: './songs/036 综合训练16.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 37,
+                title: '综合训练17',
+                singer: '匿名',
+                songUrl: './songs/037 综合训练17.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 38,
+                title: '综合训练18',
+                singer: '匿名',
+                songUrl: './songs/038 综合训练18.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 39,
+                title: '综合训练19',
+                singer: '匿名',
+                songUrl: './songs/039 综合训练19.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 40,
+                title: '综合训练20',
+                singer: '匿名',
+                songUrl: './songs/040 综合训练20.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 41,
+                title: '综合训练21',
+                singer: '匿名',
+                songUrl: './songs/041 综合训练21.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 42,
+                title: '综合训练22',
+                singer: '匿名',
+                songUrl: './songs/042 综合训练22.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id:43 ,
+                title: '综合训练23',
+                singer: '匿名',
+                songUrl: './songs/043 综合训练23.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 44,
+                title: '综合训练24',
+                singer: '匿名',
+                songUrl: './songs/044 综合训练24.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 45,
+                title: '综合训练25',
+                singer: '匿名',
+                songUrl: './songs/045 综合训练25.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 46,
+                title: '综合训练26',
+                singer: '匿名',
+                songUrl: './songs/046 综合训练26.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 47,
+                title: '综合训练27',
+                singer: '匿名',
+                songUrl: './songs/047 综合训练27.mp3',
+                imageUrl: ' images/songs/英语听力.jpg'
+            },
+            {
+                id: 48,
+                title: '综合训练28',
+                singer: '匿名',
+                songUrl: './songs/048 综合训练28.mp3',
                 imageUrl: ' images/songs/英语听力.jpg'
             },
         ]
